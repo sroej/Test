@@ -18,8 +18,8 @@ SMS_API_ENDPOINT = "https://www.ivasms.com/portal/sms/received/getsms"
 NUMBERS_URL = "https://www.ivasms.com/portal/sms/received/getsms/number"
 SMS_DETAIL_URL = "https://www.ivasms.com/portal/sms/received/getsms/number/sms"
 
-USERNAME = "demigaming1000@gmail.com"
-PASSWORD = "Demilade01"
+USERNAME = "ninjaxxdenki@gmail.com"
+PASSWORD = "Denkidev4@"
 
 POLLING_INTERVAL = 2
 STATE_FILE = "processed_sms_ids.json"
