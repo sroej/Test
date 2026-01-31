@@ -11,7 +11,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 BOT_TOKEN = "8547880098:AAGSaO4KyDt8CzUqTgzQGyKlQQOnStdngl8"
-ADMIN_IDS = ["1546129837"]
+ADMIN_IDS = ["7008926454"]
 LOGIN_URL = "https://www.ivasms.com/login"
 BASE_URL = "https://www.ivasms.com/"
 SMS_API_ENDPOINT = "https://www.ivasms.com/portal/sms/received/getsms"
