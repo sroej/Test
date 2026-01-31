@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
-BOT_TOKEN = "8547880098:AAGSaO4KyDt8CzUqTgzQGyKlQQOnStdngl8"
+BOT_TOKEN = "8575184957:AAEZ4Wz-NQDQVc2SNqjpjmhlU56sMsVRih0"
 ADMIN_IDS = ["7008926454"]
 LOGIN_URL = "https://www.ivasms.com/login"
 BASE_URL = "https://www.ivasms.com/"
